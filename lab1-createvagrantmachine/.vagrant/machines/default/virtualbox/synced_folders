@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/adel/Desktop/formationdevops/lab1-createvagrantmachine","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
