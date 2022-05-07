@@ -1,3 +1,4 @@
+# Exemple minimaliste
 Afin de déployer ce projet il faut exécuter les commandes suivantes 
 
 ```
