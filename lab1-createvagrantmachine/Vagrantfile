@@ -1,0 +1,15 @@
+#exemple minimaliste pour la creation d'un box vagrant
+#SE : centos7
+#VCPU = 2 
+#RAM = 512M
+
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "centos/7"
+  config.vm.hostname = "MyFirstBox"
+
+  config.vm.provider "virtualbox" do |v|
+     v.memory = 512
+     v.cpus = 2
+  end
+end
